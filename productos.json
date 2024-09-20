@@ -1,0 +1,73 @@
+
+  [
+    {
+      "nombre": "Cactus",
+      "descripcion": "Cactus pequeño, ideal para interiores.",
+      "stock": 20,
+      "precio": 500,
+      "imagen": "imagenes/cactus.jpg"
+    },
+    {
+    "nombre": "Suculenta",
+    "descripcion": "Suculenta con fácil mantenimiento.",
+    "stock": 15,
+    "precio": 350,
+    "imagen": "imagenes/suculenta.jpg"
+  },
+  {
+    "nombre": "Helecho",
+    "descripcion": "Helecho colgante para espacios sombreados.",
+    "stock": 10,
+    "precio": 700,
+     "imagen": "imagenes/helecho.jpg"
+  },
+  {
+    "nombre": "Bonsai",
+    "descripcion": "Árbol Bonsai de 5 años de antigüedad.",
+    "stock": 5,
+    "precio": 2500,
+     "imagen": "imagenes/bonsai.jpg"
+  },
+  {
+    "nombre": "Aloe Vera",
+    "descripcion": "Planta Aloe Vera con propiedades curativas.",
+    "stock": 12,
+    "precio": 450,
+     "imagen": "imagenes/aloevera.jpg"
+  },
+  {
+    "nombre": "Ficus",
+    "descripcion": "Ficus de interior, fácil de cuidar.",
+    "stock": 8,
+    "precio": 1200,
+     "imagen": "imagenes/ficus.jpg"
+  },
+  {
+    "nombre": "Orquídea",
+    "descripcion": "Orquídea con flores de colores vibrantes.",
+    "stock": 6,
+    "precio": 1800,
+     "imagen": "imagenes/orquidea.jpg"
+  },
+  {
+    "nombre": "Lavanda",
+    "descripcion": "Lavanda aromática ideal para jardín.",
+    "stock": 25,
+    "precio": 300,
+     "imagen": "imagenes/lavanda.jpg"
+  },
+  {
+    "nombre": "Palmera",
+    "descripcion": "Palmera de interior de crecimiento lento.",
+    "stock": 3,
+    "precio": 3500,
+     "imagen": "imagenes/palmera.jpg"
+  },
+  {
+    "nombre": "Hierbabuena",
+    "descripcion": "Hierbabuena para uso culinario y medicinal.",
+    "stock": 30,
+    "precio": 150,
+     "imagen": "imagenes/hierbabuena.jpg"
+  }
+]
